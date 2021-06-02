@@ -4,4 +4,10 @@ library(tidyverse)
 
 ggplot(iris, mapping= aes(x= Sepal.Width, y= Petal.Length, color= Species)) +
 geom_point()
+
+```
+
+
+```{r}
+head(iris, 5)
 ```
