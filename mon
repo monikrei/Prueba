@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------------------------
+Python has a variety of built-in functions that can be used to perform a wide range of tasks, such
+as:
+
+|:**Function**:|:** Description**|
+|print() The *print* function is used to display output to the console.
+|len() The *len* function is used to find the length of a string or a list.
+|str() The *str* function is used to convert a value to a string.
+|int() The *int* function is used to convert a value to an integer.
+|min() The *min* function is used to find the minimum value in a list or a string.|
+|max() The *max* function is used to find the maximum value in a list or a string.|
